@@ -23,7 +23,7 @@
 		{
 			"Name": "Official0xygen",
 			"Enabled": true,
-			"MarketplaceURL": "https://www.0xygen.io"
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/1b5bc4c53d7846b0a90d7664c25c6d12"
 		}
 	]
 }
